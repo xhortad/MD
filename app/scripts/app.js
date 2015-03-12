@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name angularSeedApp
+ * @name mamaDukesApp
  * @description
- * # angularSeedApp
+ * # mamaDukesApp
  *
  * Main module of the application.
  */
 angular
-  .module('angularSeedApp', [
+  .module('mamaDukesApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',

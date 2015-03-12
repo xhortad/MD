@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name angularSeedApp.controller:MainCtrl
+ * @name mamaDukesApp.controller:MainCtrl
  * @description
  * # MainCtrl
- * Controller of the angularSeedApp
+ * Controller of the mamaDukesApp
  */
-angular.module('angularSeedApp')
+angular.module('mamaDukesApp')
   .controller('MainCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
